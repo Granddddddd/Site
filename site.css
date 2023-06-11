@@ -1,0 +1,43 @@
+header{
+	background-color: antiquewhite;
+	height: 150px;
+}
+a{
+	text-decoration: none;
+	
+}
+ul{
+	list-style: none;
+}
+li{
+	height: 32px;
+	width: 80%;
+	border: dashed 5px green;
+	margin: 20px;
+}
+li:hover{
+	background-color: lightsalmon;
+}
+nav{
+	width: 20%;
+	background-color: burlywood;
+	float: left;
+}
+main{
+	width: 60%;
+	background-color: mediumvioletred;
+	float: left;
+}
+aside{
+	width: 20%;
+	background-color: burlywood;
+	float: left;
+}
+h2{
+	text-align: center;
+}
+footer{
+	height: 150px;
+	background-color: firebrick;
+	clear: both;
+}ЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ

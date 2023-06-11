@@ -1,0 +1,22 @@
+p{
+	font-size: 50px;
+	background-color: purple;
+	color: violet;
+	text-align: center;
+}
+table{
+	border: double 2px purple;
+	width: 50%;
+	font-size: 24px;
+	margin: auto;
+}
+th{
+	border: solid 1px violet;
+}
+tr:hover{
+	background-color: lightgrey;
+}
+td:hover{
+	background-image: url(https://www.gifki.org/data/media/712/tsifry-animatsionnaya-kartinka-0203.gif);
+	background-size: cover;
+}

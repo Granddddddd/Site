@@ -1,0 +1,14 @@
+body{
+	background-color: purple;
+}
+p{
+	font-size: 40px;
+	color: #ff6534;
+	background-color: rgb(5, 3, 9);
+}
+.first{
+	color: #fff;
+}
+.second{
+	font-family: cursive;
+}
