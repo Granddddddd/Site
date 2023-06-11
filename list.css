@@ -1,0 +1,12 @@
+body{
+	background-color: lightseagreen;
+}
+ul{
+	color: lightgoldenrodyellow;
+	font-size: 24px;
+}
+
+ul li::marker{
+	color: blue;
+	font-size: 1.1em;
+}
